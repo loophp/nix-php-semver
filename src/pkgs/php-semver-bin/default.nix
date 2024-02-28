@@ -9,11 +9,11 @@ php.buildComposerProject {
   src = fetchFromGitHub {
     owner = "loophp";
     repo = "php-semver-bin";
-    rev = "3b21d17a90677b1e94c904f0a65c5af4ef0d1415";
-    hash = "sha256-0KddN+Y2/8coIzyLevkImeSfB4pKAyuPD27modVoLro=";
+    rev = "d143718a03156c9bbba7a37db21916151f00d6dd";
+    hash = "sha256-cmxqzuyaYWa4MPD7QFlrcacdosqC1f4idohOQUqfOL8=";
   };
 
-  vendorHash = "sha256-0LiHD9w3tPh4jPUEsbdfoMzJuM8VpWkKwT36X/WOC2k=";
+  vendorHash = "sha256-MLeL0iHVvy8etNsTXdpEcrjev0vxTMxGxofHHXprq5w=";
 
   meta.mainProgram = "php-semver";
 }
